@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.kuronico.com</id>
     <title>Kuronico</title>
-    <updated>2021-05-12T11:45:40.250Z</updated>
+    <updated>2021-06-04T03:45:16.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.kuronico.com"/>
     <link rel="self" href="https://blog.kuronico.com/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://blog.kuronico.com/images/avatar.png</logo>
     <icon>https://blog.kuronico.com/favicon.ico</icon>
     <rights>All rights reserved 2021, Kuronico</rights>
+    <entry>
+        <title type="html"><![CDATA[第一份工作总结]]></title>
+        <id>https://blog.kuronico.com/post/my-first-job-sum/</id>
+        <link href="https://blog.kuronico.com/post/my-first-job-sum/">
+        </link>
+        <updated>2021-04-07T06:37:43.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>上次写博客是什么时候了= =从一年前疫情在家，到毕业典礼，再到这份工作的面试、入职、培训、独立做事，到现在即将离职，中间经历的事，现在来做个总结吧。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>上次写博客是什么时候了= =从一年前疫情在家，到毕业典礼，再到这份工作的面试、入职、培训、独立做事，到现在即将离职，中间经历的事，现在来做个总结吧。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDH概念]]></title>
         <id>https://blog.kuronico.com/post/sdh-intro/</id>
